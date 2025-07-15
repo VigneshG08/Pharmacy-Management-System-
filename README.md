@@ -165,7 +165,7 @@ Contributions are welcome! Please follow these steps to contribute:
 
 For any questions or issues, please contact:
 
-- **Name**: Murupoju Yashwanth Kumar
-- **Email**: murupojuyashwanth@gmail.com
+- **Name**: G. Vignesh
+- **Email**: vignesh.gattepally@gmail.com
 
 ---
